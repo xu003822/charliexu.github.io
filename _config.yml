@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "mailto:alam.m@queensu.ca"
+  email            : "alam.m@queensu.ca"
   researchgate     :  # # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
