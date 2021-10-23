@@ -17,7 +17,7 @@ I am a Labor and Public economist studying topics of discrimination and inequali
 For more details on my work please see my [CV](https://www.dropbox.com/s/qx054cgdv99412f/Alam_MdMoshiUl_CV.pdf?dl=0) and [Research page](https://moshialam.github.io/research/).
 
 **Research Interests:**
-  Labor, Public, Development Economics and Applied Econometrics.
+  Labor, Public and Applied Econometrics.
 
 **References**
   - [Chris Taber](https://www.ssc.wisc.edu/~ctaber/) [[Email](ctaber@ssc.wisc.edu)] (PhD Advisor)
