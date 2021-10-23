@@ -1,8 +1,8 @@
 ---
 
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 
 ---
@@ -10,4 +10,4 @@ author_profile: true
 {% include base_path %}
 
 
-### teaching at UW-Madison
+### Teaching at UW-Madison
