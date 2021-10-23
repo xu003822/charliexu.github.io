@@ -20,5 +20,5 @@ I am a Labor and Public economist studying topics of discrimination and inequali
 **References**
   - [Chris Taber](https://www.ssc.wisc.edu/~ctaber/) [[Email](ctaber@ssc.wisc.edu)]
   - [Jeff Smith](https://sites.google.com/site/econjeffsmith/home) [[Email](econjeff@ssc.wisc.edu)]
-  - [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) [Email(jmgregory@ssc.wisc.edu)]
+  - [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) [[Email](jmgregory@ssc.wisc.edu)]
 
