@@ -30,9 +30,9 @@ Teaching evaluations of each semester are available upon request.
     - _Distinguished Teaching Assistant_
 
 - Econ 101 (Principles of Microeconomics) Fall 2015 (Head TA) Prof. Korinna Hansen 
- - _Distinguished Teaching Assistant_
+    - _Distinguished Teaching Assistant_
 
 - Econ 101 (Principles of Microeconomics) Spring 2015 Prof. Gwen Eudey 
 
 - Econ 101 (Principles of Microeconomics) Fall 2014 Prof. Elizabeth S. Kelly 
- - _Excellent TA citation_
+    - _Excellent TA citation_
