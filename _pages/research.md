@@ -16,5 +16,7 @@ author_profile: true
     </details>
 2. "Female Inheritance Rights and Household Sanitation", with [Monica](https://sites.google.com/view/monicauwmadison)
 3. "Increases in Shared Custody after Divorce" with Daniel Meyer and Marcy Carlson (R&R in Demographic Research)
-4. "Racial Gaps in Wage Growth: Discrimination and Search Frictions"
-5. "Identification in Models of Discrimination" 
+
+### Works in Progress
+1. "Racial Gaps in Wage Growth: Discrimination and Search Frictions"
+2. "Identification in Models of Discrimination" 
