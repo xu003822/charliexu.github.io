@@ -17,8 +17,9 @@ author_profile: true
     *Awarded Richard E. Stockwell Dissertation Fellowship, UW-Madison*
 2. "Female Inheritance Rights and Household Sanitation", with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft available on request.*)
     <button onclick="myFunction()">Abstract</button>
-
-<div id="myDIV"> this is an abstract! </div>
+    <div id="myDIV">
+      This is my Abstract.
+    </div>
 4. "Increases in Shared Custody after Divorce" with Daniel Meyer and Marcy Carlson (R&R in Demographic Research)
 
 ### Works in Progress
