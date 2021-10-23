@@ -23,16 +23,16 @@ Teaching evaluations of each semester are available upon request.
   - _Juli Plant Grainger Teaching Excellence Award_
   - _Distinguished Teaching Assistant_
 
-- Econ 706 (Applied Econometrics - Master's)  Prof. Christopher Taber & Prof. Kenneth D. West 
+- Econ 706 (Applied Econometrics - Master's)  Prof. Christopher Taber & Prof. Kenneth D. West  
   - _Distinguished Teaching Assistant_
 
-- Econ 101 (Principles of Microeconomics) Spring 2016 (Head TA) Prof. Korinna Hansen
+- Econ 101 (Principles of Microeconomics) Spring 2016 (Head TA) Prof. Korinna Hansen 
+    - _Distinguished Teaching Assistant_
+
+- Econ 101 (Principles of Microeconomics) Fall 2015 (Head TA) Prof. Korinna Hansen 
  - _Distinguished Teaching Assistant_
 
-- Econ 101 (Principles of Microeconomics) Fall 2015 (Head TA) Prof. Korinna Hansen
- - _Distinguished Teaching Assistant_
+- Econ 101 (Principles of Microeconomics) Spring 2015 Prof. Gwen Eudey 
 
-- Econ 101 (Principles of Microeconomics) Spring 2015 Prof. Gwen Eudey
-
-- Econ 101 (Principles of Microeconomics) Fall 2014 Prof. Elizabeth S. Kelly
+- Econ 101 (Principles of Microeconomics) Fall 2014 Prof. Elizabeth S. Kelly 
  - _Excellent TA citation_
