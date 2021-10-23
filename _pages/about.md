@@ -14,7 +14,7 @@ I am a Post-Doctoral Research Fellow at the [Department of Economics, Queen's Un
 
 I am a Labor and Public economist studying topics of discrimination and inequality with a focus on how preferences and beliefs affect economic outcomes. Depending on the question of interest, I use different methods in my research combining both design-based and structural models, using variations from experiments and natural experiments.
 
-For more details on my work please see my [CV] and [Research] page.
+For more details on my work please see my [CV](https://www.dropbox.com/s/qx054cgdv99412f/Alam_MdMoshiUl_CV.pdf?dl=0) and [Research page](https://moshialam.github.io/research/).
 
 **Research Interests:**
   Labor, Public, Development Economics and Applied Econometrics.
