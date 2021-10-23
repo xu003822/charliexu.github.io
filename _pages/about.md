@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ I am a Labor and Public economist studying topics of discrimination and inequali
   Labor, Public, Development Economics and Applied Econometrics.
 
 **References**
-  - [Chris Taber](https://www.ssc.wisc.edu/~ctaber/) [[Email](ctaber@ssc.wisc.edu)]
+  - [Chris Taber](https://www.ssc.wisc.edu/~ctaber/) [[Email](ctaber@ssc.wisc.edu)] (PhD Advisor)
   - [Jeff Smith](https://sites.google.com/site/econjeffsmith/home) [[Email](econjeff@ssc.wisc.edu)]
   - [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) [[Email](jmgregory@ssc.wisc.edu)]
 
