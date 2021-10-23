@@ -20,17 +20,16 @@ In recognition of my teaching performance, I was nominated by the Department of 
 Teaching evaluations of each semester are available upon request. 
 
 - Econ 705 (Econometric Theory - Master's)  Prof. Jack R. Porter & Prof. Jeffrey A. Smith
-  - [] Juli Plant Grainger Teaching Excellence Award
-  - [] Distinguished Teaching Assistant
+  - _Juli Plant Grainger Teaching Excellence Award_
+  - _Distinguished Teaching Assistant_
 
 - Econ 706 (Applied Econometrics - Master's)  Prof. Christopher Taber & Prof. Kenneth D. West 
-  -Distinguished Teaching Assistant
+  - _Distinguished Teaching Assistant_
 
-- Econ 101 (Principles of Microeconomics):
-  - Spring 2016 (Head TA) Prof. Korinna Hansen
-   -Distinguished Teaching Assistant
-  - Fall 2015 (Head TA) Prof. Korinna Hansen
-   -Distinguished Teaching Assistant
-  - Spring 2015 Prof. Gwen Eudey
-  - Fall 2014 Prof. Elizabeth S. Kelly
-   -Excellent TA citation
+- Econ 101 (Principles of Microeconomics) Spring 2016 (Head TA) Prof. Korinna Hansen
+ - _Distinguished Teaching Assistant_
+- Econ 101 (Principles of Microeconomics) Fall 2015 (Head TA) Prof. Korinna Hansen
+ - _Distinguished Teaching Assistant_
+- Econ 101 (Principles of Microeconomics) Spring 2015 Prof. Gwen Eudey
+- Econ 101 (Principles of Microeconomics) Fall 2014 Prof. Elizabeth S. Kelly
+ - _Excellent TA citation_
