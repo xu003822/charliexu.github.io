@@ -24,13 +24,13 @@ Teaching evaluations of each semester are available upon request.
   -Distinguished Teaching Assistant
 
 - Econ 706 (Applied Econometrics - Master's)  Prof. Christopher Taber & Prof. Kenneth D. West 
-  - Distinguished Teaching Assistant
+  -Distinguished Teaching Assistant
 
 - Econ 101 (Principles of Microeconomics):
   - Spring 2016 (Head TA) Prof. Korinna Hansen
-   - Distinguished Teaching Assistant
+   -Distinguished Teaching Assistant
   - Fall 2015 (Head TA) Prof. Korinna Hansen
-   - Distinguished Teaching Assistant
+   -Distinguished Teaching Assistant
   - Spring 2015 Prof. Gwen Eudey
   - Fall 2014 Prof. Elizabeth S. Kelly
-   - Excellent TA citation
+   -Excellent TA citation
