@@ -10,18 +10,18 @@ author_profile: true
 {% include base_path %}
 
 
-### Teaching at Queen's University
+### Teaching at Queen's University (Instructor)
 
 Winter 2022: Econ 452 -- Applied Econometrics
 
-### Teaching at UW-Madison
+### Teaching at UW-Madison (TA)
 In recognition of my teaching performance, I was nominated by the Department of Economics for University of Wisconsin-Madison Letters & Sciences Teaching Fellows Award 2019.
 
 Teaching evaluations of each semester are available upon request. 
 
 - Econ 705 (Econometric Theory - Master's)  Prof. Jack R. Porter & Prof. Jeffrey A. Smith
-  -Juli Plant Grainger Teaching Excellence Award
-  -Distinguished Teaching Assistant
+  - [] Juli Plant Grainger Teaching Excellence Award
+  - [] Distinguished Teaching Assistant
 
 - Econ 706 (Applied Econometrics - Master's)  Prof. Christopher Taber & Prof. Kenneth D. West 
   -Distinguished Teaching Assistant
