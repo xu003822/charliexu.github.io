@@ -12,7 +12,7 @@ author_profile: true
 
 ### Teaching at Queen's University (Instructor)
 
-Winter 2022: Econ 452 -- Applied Econometrics
+- Econ 452 -- Applied Econometrics (Winter 2022)
 
 ### Teaching at UW-Madison (TA)
 In recognition of my teaching performance, I was nominated by the Department of Economics for the University of Wisconsin-Madison *Letters & Sciences Teaching Fellows Award 2019*.
