@@ -10,11 +10,11 @@ author_profile: true
 {% include base_path %}
 
 
-### Teaching at Queen's University (Instructor)
+### [Queen's University](https://www.econ.queensu.ca/) (Instructor)
 
 - Econ 452 -- Applied Econometrics (Winter 2022)
 
-### Teaching at UW-Madison (TA)
+### [University of Wisconsin-Madison](https://econ.wisc.edu/) (TA)
 In recognition of my teaching performance, I was nominated by the Department of Economics for the University of Wisconsin-Madison *Letters & Sciences Teaching Fellows Award 2019*.
 
 - Econ 705 (Econometric Theory - Master's) Instructors: [Jack Porter](https://www.ssc.wisc.edu/~jrporter/) & [Jeffrey Smith](https://sites.google.com/site/econjeffsmith/home)
