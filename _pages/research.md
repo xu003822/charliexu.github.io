@@ -21,8 +21,7 @@ author_profile: true
 ---
 
 ### Selected Works in Progress
-<!-- - "Wage Gaps, Screening and Search Frictions--Evidence from Matched Employer-Employee Data"-->
-<!-- - "Optimal Location-based Redistribution"  with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and [Morris Davis]-->
+<!-- a comment -->
 - "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" 
 - "Racial Gaps in Wage Growth: Discrimination and Search Frictions"
 - "Identification in Models of Discrimination" 
