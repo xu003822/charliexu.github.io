@@ -28,7 +28,7 @@ In recognition of my teaching performance, I was nominated by the Department of 
   - _Distinguished Teaching Assistant_ (Spring 2016)
   - _Distinguished Teaching Assistant_ (Fall 2015)
 
-- Econ 101. _Instructor: [Gwen Eudey](https://econ.wisc.edu/staff/eudey-gwen/)_
-
 - Econ 101. _Instructor: [Elizabeth Kelly](https://econ.wisc.edu/staff/kelly-elizabeth/)_
   - _Excellent TA citation_
+
+- Econ 101. _Instructor: [Gwen Eudey](https://econ.wisc.edu/staff/eudey-gwen/)_
