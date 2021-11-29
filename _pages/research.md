@@ -23,6 +23,6 @@ author_profile: true
 
 ### Selected Works in Progress
 <!-- a comment -->
-- "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison)
+- "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Data collection in progress*)
 - "Racial Gaps in Wage Growth: Discrimination and Search Frictions"
 - "Identification in Models of Discrimination" 
