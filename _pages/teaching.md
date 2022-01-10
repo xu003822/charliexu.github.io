@@ -12,7 +12,8 @@ author_profile: true
 
 ### [Queen's University](https://www.econ.queensu.ca/) (Instructor)
 
-- Econ 452 (Winter 2022) -- Applied Econometrics. Course materials: [onQ](https://onq.queensu.ca/d2l/home/639909)
+- Econ 452 (Winter 2022) -- Applied Econometrics. 
+  - Course materials: [onQ](https://onq.queensu.ca/d2l/home/639909)
 
 ### [University of Wisconsin-Madison](https://econ.wisc.edu/) (TA)
 In recognition of my teaching performance, I was nominated by the Department of Economics for the University of Wisconsin-Madison *Letters & Sciences Teaching Fellows Award 2019*.
