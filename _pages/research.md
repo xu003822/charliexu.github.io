@@ -24,6 +24,6 @@ author_profile: true
 ### Selected Works in Progress
 <!-- a comment -->
 - "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collection in progress*)
-- "Optimal Place-Based Redistribution" with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and Morris Davis
+- "Optimal Place-Based Redistribution" with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and [Morris Davis](http://morris.marginalq.com)
 - "Racial Gaps in Wage Growth: Discrimination and Search Frictions"
 - "Identification in Models of Discrimination" 
