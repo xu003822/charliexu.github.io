@@ -2,9 +2,8 @@
 title: "Resources for students"
 layout: archive
 author_profile: true
-permalink: /resourcesforstudents/
-redirect_from: 
-  - /resourcesforstudents
+permalink: /_pages/resourcesforstudents/
+
 ---
 
 {% include base_path %}
