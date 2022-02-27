@@ -1,3 +1,14 @@
+---
+title: "Resources for students"
+layout: archive
+author_profile: true
+permalink: /resourcesforstudents/
+redirect_from: 
+  - /resourcesforstudents
+---
+
+{% include base_path %}
+
 Students are free to use any laguage of their prference--Stata, R, Julia, Python, Matlab etc.
 Most students use the statistical software, Stata for the analysis they conduct for their term paper.
 
