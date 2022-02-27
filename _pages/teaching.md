@@ -12,8 +12,9 @@ author_profile: true
 
 ### [Queen's University](https://www.econ.queensu.ca/) (Instructor)
 
-- Econ 452 (Winter 2022) -- Applied Econometrics. 
+- Econ 452 (Winter 2022) -- Applied Econometrics (Causal Inference).
   - Course materials: [onQ](https://onq.queensu.ca/d2l/home/639909)
+  - [Resources on Stata/R from the web for students](_pages/resourcesforstudents.md)
 
 ### [University of Wisconsin-Madison](https://econ.wisc.edu/) (TA)
 
