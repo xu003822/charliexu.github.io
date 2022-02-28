@@ -5,10 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"dark"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#If you want toc hange theme then uncomment the following three lines and also uncomment assets from the exclude list
+#plugins:
+ # - jekyll-remote-theme
+#remote_theme           : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "sunrise" #"dark"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -141,7 +142,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets
+  #- assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
