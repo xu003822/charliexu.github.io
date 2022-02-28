@@ -9,6 +9,11 @@
 #remote_theme             : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    :  "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Moshi Alam"
@@ -140,6 +145,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
+  - assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
