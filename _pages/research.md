@@ -13,6 +13,18 @@ author_profile: true
     **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
     **Conferences:** SOLE 2021, North American Econometric Society 2021, Economics Science Association 2022
     
+    <section class="modal--show" id="modal-text" tabindex="-1"
+        role="dialog" aria-labelledby="modal-label" aria-hidden="true">
+
+    <div class="modal-inner">
+        <header id="modal-label"><!-- Header --></header>
+        <div class="modal-content"><!-- The modals content --></div>
+        <footer><!-- Footer --></footer>
+    </div>
+
+    <a href="#!" class="modal-close" title="Close this modal" data-close="Close"
+        data-dismiss="modal">?</a>
+</section>
 
 - **Female Inheritance Rights and Household Sanitation**, with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
