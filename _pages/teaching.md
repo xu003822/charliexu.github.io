@@ -12,9 +12,7 @@ author_profile: true
 
 ### [Queen's University](https://www.econ.queensu.ca/) (Instructor)
 
-- Econ 452 (Winter 2022) -- Applied Econometrics (Causal Inference).
-  - <a href="https://onq.queensu.ca/d2l/home/639909" class = "btn btn-outline-warning btn-sm" role = "button"> Course Website </a>
-  - Course materials: [onQ](https://onq.queensu.ca/d2l/home/639909)
+- Econ 452 (Winter 2022) -- Applied Econometrics (Causal Inference). <a href="https://onq.queensu.ca/d2l/home/639909" class = "btn btn-outline-warning btn-sm" role = "button"> Course Website </a>
   - [Resources on Stata/R from the web for students](https://moshialam.github.io/_pages/resourcesforstudents/)
 
 ### [University of Wisconsin-Madison](https://econ.wisc.edu/) (TA)
