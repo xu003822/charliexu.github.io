@@ -12,32 +12,7 @@ author_profile: true
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary> We provide novel evidence on the distribution of workers' preferences on manager's gender and their beliefs on manager's mentoring ability. We design and conduct a novel within-worker information experiment and embed it in a hypothetical job choice survey for job-seekers. We find that on average there exists an underlying preference of workers to work for female managers, willing to give up 1.3-2.2% of average annual wages. However, the lack of information on manager's mentoring ability leads both preferences and beliefs of workers to influence job choice. On average workers believe that male managers are better mentors counteracting their underlying preferences. This lack of information does not allow job choices of workers to reflect the average underlying preference to work for female managers. The distribution reveals that 60% of workers prefer to work for female managers, and in the absence of information on manager mentoring ability 62% believed male managers to be better mentors, with policy relevant heterogeneity across maternal education and majors of workers. An ex-post survey where workers beliefs are directly elicited corroborate this finding.  Our results suggest that this information gap could lead to sub-optimal promotion of females to managerial positions, and firm executives who do not prefer female managers could use these information rents to generate glass ceilings for females. </details>    
     **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
     **Conferences:** SOLE 2021, North American Econometric Society 2021, Economics Science Association 2022
-  
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-  Launch demo modal
-</button>
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
 
 - **Female Inheritance Rights and Household Sanitation**, with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
