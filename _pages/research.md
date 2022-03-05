@@ -13,26 +13,6 @@ author_profile: true
     **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
     **Conferences:** SOLE 2021, North American Econometric Society 2021, Economics Science Association 2022
     
-<div class="modal fade" id="new-document-modal" tabindex="-1" role="dialog" aria-labelledby="newDocumentModal">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-<h4 class="modal-title" id="newDocumentModal">Start a New Document</h4>
-</div>
-<form id="new-document">
-<div class="modal-body">
-<label for="documentTitle">Document Title</label>
-<input type="text" name="documentTitle" class="form-control" placeholder="e.g. Plans for World Domination">
-</div>
-<div class="modal-footer">
-<button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-<button type="submit" class="btn btn-success">Create Document</button>
-</div>
-</form> <!-- end #new-document -->
-</div>
-</div>
-</div>
 
 - **Female Inheritance Rights and Household Sanitation**, with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
