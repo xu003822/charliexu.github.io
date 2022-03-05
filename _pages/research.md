@@ -13,65 +13,30 @@ author_profile: true
     **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
     **Conferences:** SOLE 2021, North American Econometric Society 2021, Economics Science Association 2022
   
-
-<div class="container">
- 
-<h3>Bootstrap 4 button in Modal</h3>
- 
 <!-- Button trigger modal -->
- 
-<button type="button" class="btn btn-dark" data-toggle="modal" data-target="#ButtonModal">
- 
-  Open Modal with buttons
- 
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+  Launch demo modal
 </button>
- 
- 
- 
+
 <!-- Modal -->
- 
-<div class="modal fade" id="ButtonModal" tabindex="-1" role="dialog" aria-labelledby="ButtonModalLabel" aria-hidden="true">
- 
-  <div class="modal-dialog" role="document">
- 
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
- 
       <div class="modal-header">
- 
-        <h5 class="modal-title" id="ButtonModalLabel">Demo of buttons in Modal</h5>
- 
+        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
- 
-          <span aria-hidden="true">&times;</span>
- 
+          <span aria-hidden="true">×</span>
         </button>
- 
       </div>
- 
       <div class="modal-body">
- 
-        Using various button styles in Bootstrap 4
- 
+        ...
       </div>
- 
       <div class="modal-footer">
- 
-        <button type="button" class="btn btn-success btn-lg" data-dismiss="modal">OK</button>
- 
-        <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Delete</button>
- 
-        <button type="button" class="btn btn-outline-info ">Cancel</button>
- 
-        <button type="button" class="btn btn-warning ">Abort</button>
- 
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
- 
     </div>
- 
   </div>
- 
-</div>
- 
 </div>
 
 - **Female Inheritance Rights and Household Sanitation**, with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
