@@ -1,3 +1,13 @@
+---
+title: "Course Outline"
+layout: archive
+author_profile: true
+permalink: /_pages/452_outline/
+
+---
+
+{% include base_path %}
+
 ## Course Outline
 
 1. Potential Outcomes Framework (1 lecture)
