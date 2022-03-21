@@ -8,7 +8,7 @@ author_profile: true
 ### Working papers
 
 
-- *Job Market Paper*     [**Worker Side Discrimination: Beliefs and Preferences--Evidence from an Information Experiment on Job-seekers**](https://ssc.wisc.edu/~alam4/Alam_JMP.pdf), with Mehreen Mookerjee and Sanket Roy    (*Updated draft coming  soon*)
+- *Job Market Paper*     [**Worker Side Discrimination: Beliefs and Preferences--Evidence from an Information Experiment on Job-seekers**](https://ssc.wisc.edu/~alam4/Alam_JMP.pdf), with Mehreen Mookerjee and Sanket Roy    
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary> We provide novel evidence on the distribution of workers' preferences on manager's gender and their beliefs on manager's mentoring ability. We design and conduct a novel within-worker information experiment and embed it in a hypothetical job choice survey for job-seekers. We find that on average there exists an underlying preference of workers to work for female managers, willing to give up 1.3-2.2% of average annual wages. However, the lack of information on manager's mentoring ability leads both preferences and beliefs of workers to influence job choice. On average workers believe that male managers are better mentors counteracting their underlying preferences. This lack of information does not allow job choices of workers to reflect the average underlying preference to work for female managers. The distribution reveals that 60% of workers prefer to work for female managers, and in the absence of information on manager mentoring ability 62% believed male managers to be better mentors, with policy relevant heterogeneity across maternal education and majors of workers. An ex-post survey where workers beliefs are directly elicited corroborate this finding.  Our results suggest that this information gap could lead to sub-optimal promotion of females to managerial positions, and firm executives who do not prefer female managers could use these information rents to generate glass ceilings for females. </details>    
     **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
     **Conferences:** SOLE 2021, North American Econometric Society 2021, Economics Science Association 2022
@@ -24,7 +24,7 @@ author_profile: true
 
 ### Selected Works in Progress
 <!-- a comment -->
-- "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collection in progress*)
-- "Optimal Place-Based Redistribution" with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and [Morris Davis](http://morris.marginalq.com)
+- "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collected*)
+- "Optimal Place-Based Redistribution" with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and [Morris Davis](http://morris.marginalq.com) (*Pilots to begin*)
 - "Racial Gaps in Wage Growth: Discrimination, Selection and Search Frictions" (*Administrative datasets obtained.*)
 - "Identification in Models of Discrimination" 
