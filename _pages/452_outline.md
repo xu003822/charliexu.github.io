@@ -1,5 +1,5 @@
 ---
-title: "Course Outline"
+title: "Econ 452: Course Outline"
 layout: archive
 author_profile: true
 permalink: /_pages/452_outline/
@@ -7,8 +7,6 @@ permalink: /_pages/452_outline/
 ---
 
 {% include base_path %}
-
-## Course Outline
 
 1. Potential Outcomes Framework (1 lecture)
 2. Randomized Control Trials (1.5 lectures)
