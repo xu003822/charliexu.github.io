@@ -19,3 +19,8 @@ permalink: /_pages/452_outline/
 9. Regression Discontinuity (2 lectures)
 10. Matching and Re-weighting (1 lecture)
 11. Take away from the course (1 lecture)
+
+### Assessment 
+- 10% Discussion and class participation
+- 30% 5 Problem sets
+- 60% Group project
