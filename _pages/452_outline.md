@@ -17,7 +17,7 @@ permalink: /_pages/452_outline/
 7. Panel data and Fixed Effects (3 lectures)
 8. Difference-in-Differences (5 lectures)
 9. Regression Discontinuity (2 lectures)
-10. Matching and Re-weighting (1 lecture)
+10. Inference (1 lecture)
 11. Take away from the course (1 lecture)
 
 ### Assessment 
