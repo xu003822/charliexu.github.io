@@ -16,6 +16,6 @@ Besides google search being a very good friend while picking up any language, he
 2. [Data and Statistical services at Princeton](https://dss.princeton.edu/training/)
 3. [Advanced Research computing at UCLA](https://stats.oarc.ucla.edu/stata/)
 4. [Project management in Stata](https://sscc.wisc.edu/sscc/pubs/dws/data_wrangling_stata8.htm)
-5. [Transitioning between Stata and R](hhtps://stata2r.github.io/)
+5. [Transitioning between Stata and R](https://stata2r.github.io)
 
 Most of them, have corresponding pages for R as well. 
