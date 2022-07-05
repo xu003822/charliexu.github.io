@@ -14,7 +14,7 @@ author_profile: true
     **Conferences:** SOLE 2021, North American Econometric Society 2021, ESA 2022, CEA 2022; Upcoming: EEA 2022, SEA 2022 
  
 
-- **Female Inheritance Rights and Household Sanitation**, with [Monica](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
+- **Female Inheritance Rights and Household Sanitation**, with [Monica Agarwal](https://sites.google.com/view/monicauwmadison) (*Draft coming soon.*)
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
 
      
@@ -22,7 +22,7 @@ author_profile: true
 
 ### Selected Works in Progress
 <!-- a comment -->
-- "Preference Estimation and Welfare Implications Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collected*)
+- "Preference Estimation and Welfare Implications Associated with Centralized Assignments Based on Preferred Sets" with [Monica Agarwal](https://sites.google.com/view/monicauwmadison) and [Chao Fu](https://www.ssc.wisc.edu/~cfu/) (*Administrative datasets obtained. Survey data collected*)
 - "Optimal Place-Based Redistribution" with [Morris Davis](http://morris.marginalq.com) and [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/)  (*IRB in process. Pilots to begin*)
 <!-- - "Labor market policies and Human Capital Accumulation" with [Steven Lehrer](http://econ.queensu.ca/faculty/lehrer/) and Nuno Souso Pereira-->
 - "Racial Gaps in Wage Growth: Discrimination, Selection and Search Frictions" (*Administrative datasets obtained.*)
