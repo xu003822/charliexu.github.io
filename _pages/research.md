@@ -22,7 +22,7 @@ author_profile: true
 
 ### Selected Works in Progress
 <!-- a comment -->
-- "Preference Estimation and Welfare Loss Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collected*)
+- "Preference Estimation and Welfare Implications Associated with Centralized Assignments Based on Preferred Sets" with [Monica](https://sites.google.com/view/monicauwmadison) (*Administrative datasets obtained. Survey data collected*)
 - "Optimal Place-Based Redistribution" with [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) and [Morris Davis](http://morris.marginalq.com) (*IRB in process. Pilots to begin*)
 <!-- - "Labor market policies and Human Capital Accumulation" with [Steven Lehrer](http://econ.queensu.ca/faculty/lehrer/) and Nuno Souso Pereira-->
 - "Racial Gaps in Wage Growth: Discrimination, Selection and Search Frictions" (*Administrative datasets obtained.*)
