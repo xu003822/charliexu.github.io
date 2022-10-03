@@ -8,7 +8,7 @@ permalink: /_pages/resourcesforstudents/
 
 {% include base_path %}
 
-Students are free to use any laguage of their prference--Stata, R, Julia, Python, Matlab etc.
+Students are free to use any laguage of their preference--Stata, R, Julia, Python, Matlab etc.
 Most students use the statistical software, Stata for the analysis they conduct for their term paper.
 
 Besides google search being a very good friend while picking up any language, here are some resources on **Stata** from the internet that may be useful for students. 
@@ -19,3 +19,5 @@ Besides google search being a very good friend while picking up any language, he
 5. [Transitioning between Stata and R](https://stata2r.github.io)
 
 Most of them, have corresponding pages for R as well. 
+
+[Useful checklist while working with regression outputs](https://blogs.worldbank.org/impactevaluations/crowd-sourced-checklist-top-10-little-things-drive-us-crazy-regression-output?CID=WBW_AL_BlogNotification_EN_EXT)
