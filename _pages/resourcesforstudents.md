@@ -21,3 +21,4 @@ Besides google search being a very good friend while picking up any language, he
 Most of them, have corresponding pages for R as well. 
 
 
+[Useful checklist while working with regression outputs](https://blogs.worldbank.org/impactevaluations/crowd-sourced-checklist-top-10-little-things-drive-us-crazy-regression-output?CID=WBW_AL_BlogNotification_EN_EXT)
