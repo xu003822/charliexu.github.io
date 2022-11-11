@@ -14,6 +14,35 @@ author_profile: true
     **Conferences:** SOLE 2021, North American Econometric Society 2021, ESA 2022, CEA 2022; Upcoming: EEA 2022, SEA 2022 
  
 
+<h2 class="archive__item-title" itemprop="headline"> test Paper </h2>
+
+<div>
+
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+
+      <ul> <li> tests </li> </ul>
+
+    </h3> 
+
+    <p> 
+
+    <ul style="list-style-type:none"> <li>April 2022.  </li> </ul>
+
+    </p>
+
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#test-id"  class="btn" role="button">Abstract</a> </li> </ul>
+
+    <div class="collapse" id="test-id">
+
+      <ul style="list-style-type:none"> <li>Test abstract.</li> </ul>
+
+    </div>
+</article>
+
+</div>
+
 - **Female Inheritance Rights and Household Sanitation** (with Monica Agarwal) (*Draft available on request.*)
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
 
