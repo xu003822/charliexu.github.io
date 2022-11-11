@@ -14,7 +14,6 @@ author_profile: true
     **Conferences:** SOLE 2021, North American Econometric Society 2021, ESA 2022, CEA 2022; Upcoming: EEA 2022, SEA 2022 
  
 
-<h2 class="archive__item-title" itemprop="headline"> test Paper </h2>
 
 <div>
 
