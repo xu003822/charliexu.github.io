@@ -1,3 +1,5 @@
 *.aux
-*.syntex.gz
+*.synctex.gz
 *.xdev
+*.xdv
+*.tex
