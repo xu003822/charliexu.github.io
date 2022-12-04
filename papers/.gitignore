@@ -3,3 +3,6 @@
 *.xdev
 *.xdv
 *.tex
+*.synctex.gz
+*.synctex.gz(busy)
+*.synctex(busy)
