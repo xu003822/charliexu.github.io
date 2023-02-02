@@ -8,13 +8,39 @@ author_profile: true
 ### Working papers
 
 
-- **Worker Side Discrimination: Beliefs and Preferences--Evidence from an Information Experiment on Job-seekers**, with Mehreen Mookerjee and Sanket Roy
-[**[PDF]**](/papers/Alam_JMP_Oct21.pdf) (*Updated November 2022*)  *Submitted*
-    <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary> Tight labor markets are associated with high costs of worker-turnover. In such settings, firms might put significant weight on whom workers want to work for, while deciding promotions. Should workers prefer not to work for female managers, it could lower the chances of females being promoted. In this paper, we provide novel evidence on the distribution of workers' preferences on manager gender and their beliefs on managers' mentoring ability, which affects their job search and choice. In the absence of information on manager quality, workers are indifferent to manager gender. However, upon receiving information on manager mentorship ability, workers prefer to work for female managers---as exhibited by their willingness to forgo 1.3--2.2\% of average annual wages. Hence, absent additional information on mentorship skill, workers on average believe that female managers' mentoring ability is worse than male managers', with the magnitude of this evaluation corresponding to a wage differential of 1.6\% of average annual wages. These averages mask rich heterogeneity. We find that 60\% of workers prefer to work for female managers, and in the absence of information on mentorship ability, 62\% believe male managers to be better mentors. An ex-post survey directly eliciting worker beliefs corroborates this finding. We find policy-relevant heterogeneity by maternal education level, parental employment status and worker major. Our results imply, the distribution of worker preferences could be used to test for discriminatory practices by the firm. </details>    
-    **Awards:** Richard E. Stockwell Dissertation Fellowship, UW-Madison.
+- **Corporate Governance, Electricity Restructuring, and Pollution Abatement Investment**, with Ben Gilbert and Klaas van 't Veld
+[**[PDF]**](/papers/Alam_JMP_Oct21.pdf) 
+    <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>A firm’s cost of raising financial capital is important to its pollution abatement investment decisions and in turn to its environmental performance. The rapid growth
+in investor efforts to influence firms’ Environmental, Social, and Governance (ESG)
+profiles has renewed interest in the extent to which investor preferences and oversight
+can affect firms’ cost of capital. The ability of investors to directly influence firm-level
+decisions, however, depends on the corporate governance mechanisms in place—the
+provisions that determine the relative control rights of shareholders compared to those
+of managers. In this paper, we aim to answer whether the strength of corporate governance, relative to a firm’s financial structure and regulatory environment, affects its
+cost of capital for abatement investment aimed at complying with environmental regulation. Specifically, we study the U.S. electricity industry’s compliance with a major
+U.S. emissions trading program. We find that two of three well-known governance indices have no relationship to the implied cost of abatement capital. For the one index
+that does show a relationship, results suggest that limiting shareholder power—rather
+than giving shareholders more power—may reduce the cost of capital. These results
+are on contrary to the conventional wisdom that “the most important benefit of good
+governance is to raise capital at better terms” (Doidge et al., 2007). These also imply
+that investor activism aimed at improving firms’ corporate governance might impede
+their environmental progress. That is, ESG investing might have goals that are in conflict with each other. We also find that the impacts of a firm’s corporate governance
+on its cost of capital depend on the electricity restructuring status of plants the company owns. Improving governance raises the cost of capital for abatement investment
+in deregulated plants but has no significant impacts on regulated plants. This is consistent with the fact that regulated plants are allowed to recover capital costs through
+raising electricity prices, and are thus less dependent on governance quality to raise
+capital. </details>    
+   
 
-- **Female Inheritance Rights and Household Sanitation** (with Monica Agarwal) (*Updated draft coming soon.*)
-     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  Health hazards due to open defecation are most prominent in India. Females benefit from toilets in households more than males. In this paper we estimate the impact of increased inheritance rights of females on the presence of a toilet in the household. Daughters being usually married away to the household of the groom, available household level nationally representative data do not have all original (natal) household characteristics – which determines treatment eligibility. Under generic assumptions, we show that when the treatment is partially observed to the researcher, we can derive a lower bound on the average treatment effect in a difference in differences framework. We estimate that the policy increased the probability of the presence of a toilet in the household a woman is married into, by at least 4.3% points. We uncover conditional treatment effects by the age of the daughter at the time of policy implementation and find it to be the largest for the group of females who were the youngest at the time of policy implementation.  </details>
+- **Are Teams Conditional Cooperators: Evidence from a Public Goods Experiment** (with Tongzhe Li)
+[**[PDF]**](/papers/Alam_JMP_Oct21.pdf) 
+     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  We study whether teams are conditional cooperators in a one-shot public goods game and to what
+extent this conditionality differs from that when the decisions are made by individuals. We find
+teams under a majority rule do not exhibit significantly different levels of conditionally cooperative
+behavior than individuals in isolation. In addition, when a team representative makes a decision
+for the whole team, it exhibits... we find teams under a random representative rule are less condi-
+tionally cooperative than teams under a majority rule. This result implies majority rule enhances
+conditional cooperation compared to a random representative rule. This thereby may lead to more
+prosocial outcomes which is indeed what our experiment finds. </details>
 
      
 ---
@@ -30,6 +56,5 @@ author_profile: true
 ---
 
 ### Publications 
-- ["Increases in shared custody after divorce in the United States."](https://www.demographic-research.org/volumes/vol46/38/default.htm) (with Daniel Meyer and Marcia Carlson) *Demographic Research* 46 (2022): 1137-1162.
-    <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract</summary>  This paper provides new evidence on the time trend in shared physical custody after divorce in the U.S., using eight waves of data from the Current Population Survey - Child Support Supplement. We find that the likelihood of shared custody more than doubled between divorces that occurred before 1985 and those in 2010-2014, from 12% to 28%. We show that non-Hispanic Whites and those who are more socioeconomically advantaged are more likely to have shared custody. Using more formal methods we show that the increase cannot be explained by changes in the characteristics of those divorcing; instead, we infer that this is the result of changing norms and policies that favor shared custody. Finally, this paper complements previous analyses using court record data from Wisconsin and shows that while the rate of shared custody in Wisconsin is higher than the national rate, a large increase over time has occurred in the nation as well as in Wisconsin. These changing patterns have important implications for children’s living arrangements and for the parental investments that children receive after their parents’ divorce  </details>
-    - *"Editor's Choice"* article
+- ["Xu, C., Botao, Q, Rawlings, D. (2022). Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment,  Ecological Economics."](https://www.demographic-research.org/volumes/vol46/38/default.htm) *Demographic Research* 46 (2022): 1137-1162.
+    <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> 
