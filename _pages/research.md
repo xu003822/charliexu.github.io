@@ -9,7 +9,7 @@ author_profile: true
 
 
 - **Corporate Governance, Electricity Restructuring, and Pollution Abatement Investment**, with Ben Gilbert and Klaas van 't Veld
-[**[PDF]**](/papers/Alam_JMP_Oct21.pdf) 
+[**[PDF]**](/papers/charlie_jmp.pdf) 
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>A firm’s cost of raising financial capital is important to its pollution abatement investment decisions and in turn to its environmental performance. The rapid growth
 in investor efforts to influence firms’ Environmental, Social, and Governance (ESG)
 profiles has renewed interest in the extent to which investor preferences and oversight
