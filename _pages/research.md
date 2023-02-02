@@ -25,7 +25,7 @@ their environmental progress. That is, ESG investing might have goals that are i
    
 
 - **Are Teams Conditional Cooperators: Evidence from a Public Goods Experiment** (with Tongzhe Li)
-[**[PDF]**](/papers/Alam_JMP_Oct21.pdf) 
+[**[PDF]**](/papers/JMP_group_social_norm.pdf) 
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  We study whether teams are conditional cooperators in a one-shot public goods game and to what
 extent this conditionality differs from that when the decisions are made by individuals. We find
 teams under a majority rule do not exhibit significantly different levels of conditionally cooperative
