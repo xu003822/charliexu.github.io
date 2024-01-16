@@ -10,17 +10,14 @@ redirect_from:
 
 Hi! Welcome to my website!
 
-I am a  Post-Doctoral Research Fellow at the [Department of Economics, Queen's University](https://www.econ.queensu.ca/). 
+I am an Assistant Professor at the [Department of Economics, University of Massachusetts Lowell](https://www.uml.edu/fahss/economics/). I received my Ph.D. in Economics from the [University of Wyoming](https://www.uwyo.edu/economics/index.html).  I am an environmental economist, with overlap in my work with behavioral and development economics. My research explores how internal incentives of government agencies and firms affect environmental outcomes, how behavioral interventions interact with economic incentives in affecting behavior, and how teams differ from individuals in terms of behavioral irrationalities. These studies have applied theories from social psychology and corporate finance together with econometric techniques to better understand and help address some of the pressing environmental and development issues.​
 
-I am a labor economist. I received my PhD in Economics from the [Department of Economics, University of Wisconsin-Madison](https://econ.wisc.edu/) in 2021. Most of my current work revolves around economic inequality resulting due to differences in preferences, beliefs and information in various contexts. 
+Besides being at my office cracking the dismal science, I particularly enjoy fishing, mountain biking, playing racquetball, and road trips.
 
-For more details on my work please see my [Research page](https://moshialam.github.io/research/) and [CV](/papers/Alam_MdMoshiUl_CV.pdf).
+For more details on my work please see my [Research page](https://xu003822.github.io/research/).
 
 **Research Fields:**
-  Labor Economics, Public Economics and Applied Econometrics.
+  Environmental Economics, Behavioral and Experimental Economics, Development Economics, and Applied Econometrics.
 
-**References**
-  - [Chris Taber](https://www.ssc.wisc.edu/~ctaber/) [[Email](ctaber@ssc.wisc.edu)] (PhD Advisor)
-  - [Jeff Smith](https://sites.google.com/site/econjeffsmith/home) [[Email](econjeff@ssc.wisc.edu)]
-  - [Jesse Gregory](https://www.ssc.wisc.edu/~jmgregory/) [[Email](jmgregory@ssc.wisc.edu)]
+
 
