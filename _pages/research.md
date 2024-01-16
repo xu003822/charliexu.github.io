@@ -31,7 +31,6 @@ author_profile: true
 - **Are Teams Conditional Cooperators: Evidence from a Public Goods Experiment** (with Tongzhe Li)
 [**[PDF]**](/papers/JMP_group_social_norm.pdf) 
      <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  We study whether teams are conditional cooperators in a one-shot public goods game and to what extent this conditionality differs from that when the decisions are made by individuals. We find teams under a majority rule do not exhibit significantly different levels of conditionally cooperative behavior than individuals in isolation. In addition, when a team representative makes a decision for the whole team, it exhibits... we find teams under a random representative rule are less conditionally cooperative than teams under a majority rule. This result implies majority rule enhances conditional cooperation compared to a random representative rule. This thereby may lead to more prosocial outcomes which is indeed what our experiment finds. </details>
-
      
 ---
 
@@ -43,5 +42,9 @@ author_profile: true
 ---
 
 ### Publications 
-- ["Xu, C., Botao, Q, Rawlings, D. (2022). Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment,  Ecological Economics."](https://www.demographic-research.org/volumes/vol46/38/default.htm) *Demographic Research* 46 (2022): 1137-1162.
+- Xu, C.(first author), Botao, Q, Rawlings, D. [Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment](https://www.sciencedirect.com/science/article/pii/S0921800922002580),  ***Ecological Economics***. (2022) 107597
+  
+- Xu, C.(first author), Van 't Veld, Klass. [Team Inspection in the Management of Common-Pool Resources when Corruption is Present](https://link.springer.com/content/pdf/10.1007/s10640-019-00399-8.pdf), ***Environmental and Resource Economics***. (2020) 75(3), 553-584
+- Xu, C.(first author), Van 't Veld, Klaas. [Social influence and economic incentives: Complements or substitutes?—The case of fighting crimes](https://www.sciencedirect.com/science/article/pii/S0165176519301363). ***Economics Letters***.  (2019) 180:80-84
+- Lei, H., Fang, L., Qian, Z., Xu, C., Deng, M., & Liu, X. [The Quantitative Analysis of Ecological Compensation Responsibility in Watershed.](https://www.sciencedirect.com/science/article/pii/S1876610212002226) ***Energy Procedia***. (2012) 16, 1324-1331
     
