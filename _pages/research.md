@@ -20,7 +20,7 @@ author_profile: true
 
   
 - **Context-dependence Preference for Climate Change Mitigation --- the Role of Temperature, Information, and Unprecedented floods** (with Botao Qin and Cristian Rojas)
-[**[PDF]**](/papers/Reference_point_climate_change (1).pdf) 
+[**[PDF]**](/papers/Reference_point_climate_change(1).pdf) 
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>The experimental valuation literature has found that people’s preferences are context-dependent. This paper examines the effects of three different contexts—weather seasons, information, and an unprecedented flooding event—on people’s preference for climate change mitigation. We conducted an online choice experiment in China in both warm and cool seasons.  We also explored whether providing information on climate change consequences  and an unprecedented flooding event  would affect this valuation. Using a mixed logit model and Poe test, we found no significant treatment effects of seasons and information for most of the attributes except for ‘frequency of typhoons’ and ‘costs’. However, we find that when provided with information, respondents’ Willingness to Pay (WTP) for climate change mitigation in general is significantly higher during the cool season than the warm season. In addition, in the warm season, providing information on climate change consequences reduces the WTP for climate change mitigation in general. However, during the cool season, providing information on climate change consequences increases respondents’ WTP for reducing the duration of heatwaves and decreasing biodiversity loss. Finally, we found that the unprecedented flooding event did not change participants’ valuation of climate change mitigation when provided with information on climate change consequences. </details>    
 
 - **Corporate Governance, Electricity Restructuring, and Pollution Abatement Investment** (with Ben Gilbert and Klaas van 't Veld)
@@ -30,19 +30,15 @@ author_profile: true
 
 - **Are Teams Conditional Cooperators: Evidence from a Public Goods Experiment** (with Tongzhe Li)
 [**[PDF]**](/papers/JMP_group_social_norm.pdf) 
-     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  We study whether teams are conditional cooperators in a one-shot public goods game and to what extent this conditionality differs from that when the decisions are made by individuals. We find
-teams under a majority rule do not exhibit significantly different levels of conditionally cooperative behavior than individuals in isolation. In addition, when a team representative makes a decision for the whole team, it exhibits... we find teams under a random representative rule are less conditionally cooperative than teams under a majority rule. This result implies majority rule enhances conditional cooperation compared to a random representative rule. This thereby may lead to more prosocial outcomes which is indeed what our experiment finds. </details>
+     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>  We study whether teams are conditional cooperators in a one-shot public goods game and to what extent this conditionality differs from that when the decisions are made by individuals. We find teams under a majority rule do not exhibit significantly different levels of conditionally cooperative behavior than individuals in isolation. In addition, when a team representative makes a decision for the whole team, it exhibits... we find teams under a random representative rule are less conditionally cooperative than teams under a majority rule. This result implies majority rule enhances conditional cooperation compared to a random representative rule. This thereby may lead to more prosocial outcomes which is indeed what our experiment finds. </details>
 
      
 ---
 
 ### Selected Works in Progress
 <!-- a comment -->
-- "Optimal Place-Based Redistribution" (with Morris Davis and Jesse Gregory) (*IRB in process. Pilots to begin*)
-- "Racial Gaps in Wage Growth: Discrimination, Selection and Search Frictions" (*Administrative datasets obtained.*)
-- "Disentangling Demand-side Discrimination from Supply-side Preferences" (with Sitian Liu and Thorstein Koeppl)  (*Administrative datasets obtained. RCT design in progress*)
-- "Labor Market Policies and Human Capital Accumulation" (with Monica Agarwal, Steven Lehrer and Nuno Souso Pereira)
-- "Identification in Models of Discrimination" 
+- "Peer Effects in Communities' Participation of Voluntary Environmental Programs" (with Devan Rawlings and Justin Beaudoin) 
+- "Diffusion of Environmental Regulation through International Trade" (with Ben Li)
 
 ---
 
