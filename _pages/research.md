@@ -7,8 +7,20 @@ author_profile: true
 
 ### Working papers
 
+- **Honor, Goal Setting, and Energy Conservation** (with Botao Qin and Siyuan Xie)
+[**[PDF]**](/papers/Honor_and_goal(1).pdf) 
+
+   <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>As Schelling conjectured, domestic political constraints affect the outcomes of negotiations over international public goods, e.g., greenhouse gas mitigation. Current literature suggests both total contributions (home plus foreign country) and home country contributions in a Presidential system subject to a Senate ratification constraint (e.g., U.S.) never exceed those under a home country without domestic constraints (e.g., authoritarian regime like China).  Herein we show how this result is reversed by adding another realistic constraint to the Presidential system—a re-election constraint.  We find that total contributions and home country contributions with both constraints can exceed those under a system without any domestic constraints. </details>  
+
+   
+- **A Note of how Re-elections Affect Climate Negotiations** (with Jason Shogren)
+[**[PDF]**](/papers/Two_level_game_Charlie.pdf) 
+
+   <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>As Schelling conjectured, domestic political constraints affect the outcomes of negotiations over international public goods, e.g., greenhouse gas mitigation. Current literature suggests both total contributions (home plus foreign country) and home country contributions in a Presidential system subject to a Senate ratification constraint (e.g., U.S.) never exceed those under a home country without domestic constraints (e.g., authoritarian regime like China).  Herein we show how this result is reversed by adding another realistic constraint to the Presidential system—a re-election constraint.  We find that total contributions and home country contributions with both constraints can exceed those under a system without any domestic constraints. </details>  
+
+  
 - **Context-dependence Preference for Climate Change Mitigation --- the Role of Temperature, Information, and Unprecedented floods** (with Botao Qin and Cristian Rojas)
-[**[PDF]**](/papers/charlie_jmp.pdf) 
+[**[PDF]**](/papers/Reference_point_climate_change (1).pdf) 
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>The experimental valuation literature has found that people’s preferences are context-dependent. This paper examines the effects of three different contexts—weather seasons, information, and an unprecedented flooding event—on people’s preference for climate change mitigation. We conducted an online choice experiment in China in both warm and cool seasons.  We also explored whether providing information on climate change consequences  and an unprecedented flooding event  would affect this valuation. Using a mixed logit model and Poe test, we found no significant treatment effects of seasons and information for most of the attributes except for ‘frequency of typhoons’ and ‘costs’. However, we find that when provided with information, respondents’ Willingness to Pay (WTP) for climate change mitigation in general is significantly higher during the cool season than the warm season. In addition, in the warm season, providing information on climate change consequences reduces the WTP for climate change mitigation in general. However, during the cool season, providing information on climate change consequences increases respondents’ WTP for reducing the duration of heatwaves and decreasing biodiversity loss. Finally, we found that the unprecedented flooding event did not change participants’ valuation of climate change mitigation when provided with information on climate change consequences. </details>    
 
 - **Corporate Governance, Electricity Restructuring, and Pollution Abatement Investment** (with Ben Gilbert and Klaas van 't Veld)
