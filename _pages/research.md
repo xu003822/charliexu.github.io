@@ -43,10 +43,9 @@ author_profile: true
 
 ### Publications 
 - Xu, C. (First Author), Li, T.  [Are Teams Conditionally Cooperative? Experimental Evidence from a Public Goods Game](https://www.sciencedirect.com/science/article/abs/pii/S0165176524002477#:~:text=Using%20a%20laboratory%20experiment%2C%20we,cooperative%20than%20individuals%20in%20isolation.), ***Economics Letters***. (2024)239, 111763.
-
-- Xu, C.(first author), Botao, Q, Rawlings, D. [Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment](https://www.sciencedirect.com/science/article/pii/S0921800922002580),  ***Ecological Economics***. (2022) 107597
-  
+- Xu, C.(first author), Botao, Q, Rawlings, D. [Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment](https://www.sciencedirect.com/science/article/pii/S0921800922002580),  ***Ecological Economics***. (2022) 107597 
 - Xu, C.(first author), Van 't Veld, Klass. [Team Inspection in the Management of Common-Pool Resources when Corruption is Present](https://link.springer.com/content/pdf/10.1007/s10640-019-00399-8.pdf), ***Environmental and Resource Economics***. (2020) 75(3), 553-584
-- Xu, C.(first author), Van 't Veld, Klaas. [Social influence and economic incentives: Complements or substitutes?—The case of fighting crimes](https://www.sciencedirect.com/science/article/pii/S0165176519301363). ***Economics Letters***.  (2019) 180:80-84
-- Lei, H., Fang, L., Qian, Z., Xu, C., Deng, M., & Liu, X. [The Quantitative Analysis of Ecological Compensation Responsibility in Watershed.](https://www.sciencedirect.com/science/article/pii/S1876610212002226) ***Energy Procedia***. (2012) 16, 1324-1331
+- Xu, C.(first author), Van 't Veld, Klaas. [Social influence and economic incentives: Complements or substitutes?—The case of fighting crimes](https://www.sciencedirect.com/science/article/pii/S0165176519301363), ***Economics Letters***.  (2019) 180:80-84
+- Lei, H., Fang, L., Qian, Z., Xu, C., Deng, M., & Liu, X. [The Quantitative Analysis of Ecological Compensation Responsibility in Watershed](https://www.sciencedirect.com/science/article/pii/S1876610212002226), ***Energy Procedia***. (2012) 16, 1324-1331
+- Xu, C. (First Author), Qian, Z., Li, Y, Peng, B. [Modeling Environmental Responsibility Definition in Ecological Compensation of Watershed](https://www.jnr.ac.cn/EN/10.11849/zrzyxb.2009.08.018), ***Journal of Natural Resources*** (in Chinese). (2009) 24(8): 1488-1496.
     
