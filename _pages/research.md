@@ -7,11 +7,6 @@ author_profile: true
 
 ### Working papers
 
-- **Honor, Goal Setting, and Energy Conservation** (with Botao Qin and Siyuan Xie)
-[**[PDF]**](/papers/Honor_and_goal(1).pdf) 
-    <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>Non-monetary incentives are increasingly being studied in encouraging energy conservation. In light of this, we conducted a natural field experiment in student dormitories to assess the effect of honor-based incentives and goal setting on electricity saving and the intrinsic motivation to save energy. Using a difference-in-difference model, we found that goal setting reduced the dormitories' electricity consumption by  15.93\% on average compared to the control group. However, the honor-based incentives were not effective on average. In addition, the study found that both honor-based incentives and goal setting, on average, did not crowd out or crowd in the intrinsic motivation to save electricity in dormitories. The heterogeneity analysis showed that the more the dormitory values honor incentives, the more its intrinsic motivation was crowded in by honor incentives. We also found dormitory characteristics affect the crowding effect on the intrinsic motivation. </details>  
-
-   
 - **A Note of how Re-elections Affect Climate Negotiations** (with Jason Shogren)
 [**[PDF]**](/papers/Two_level_game_Charlie.pdf) 
     <details style="font-size:80%; font-family:Verdana; width =20%;">  <summary style="color:blue; font-family:courier; font-size:80%; font-family:Verdana; width=80%;"> Abstract </summary>As Schelling conjectured, domestic political constraints affect the outcomes of negotiations over international public goods, e.g., greenhouse gas mitigation. Current literature suggests both total contributions (home plus foreign country) and home country contributions in a Presidential system subject to a Senate ratification constraint (e.g., U.S.) never exceed those under a home country without domestic constraints (e.g., authoritarian regime like China).  Herein we show how this result is reversed by adding another realistic constraint to the Presidential system—a re-election constraint.  We find that total contributions and home country contributions with both constraints can exceed those under a system without any domestic constraints. </details>  
@@ -35,6 +30,7 @@ author_profile: true
 ---
 
 ### Publications 
+- Qin, B. Xie, S. Xu, C. Social Recognition, Goal Setting, and Energy Conservation: Evidence from a Field Experiment in Student Dormitories, ***Energy Policy***. Accepted
 - Xu, C. (First Author), Li, T.  [Are Teams Conditionally Cooperative? Experimental Evidence from a Public Goods Game](https://www.sciencedirect.com/science/article/abs/pii/S0165176524002477#:~:text=Using%20a%20laboratory%20experiment%2C%20we,cooperative%20than%20individuals%20in%20isolation.), ***Economics Letters***. (2024)239, 111763.
 - Xu, C.(first author), Botao, Q, Rawlings, D. [Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment](https://www.sciencedirect.com/science/article/pii/S0921800922002580),  ***Ecological Economics***. (2022) 107597 
 - Xu, C.(first author), Van 't Veld, Klass. [Team Inspection in the Management of Common-Pool Resources when Corruption is Present](https://link.springer.com/content/pdf/10.1007/s10640-019-00399-8.pdf), ***Environmental and Resource Economics***. (2020) 75(3), 553-584
