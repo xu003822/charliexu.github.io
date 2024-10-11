@@ -30,7 +30,7 @@ author_profile: true
 ---
 
 ### Publications 
-- Qin, B. Xie, S. Xu, C. [Social Recognition, Goal Setting, and Energy Conservation: Evidence from a Field Experiment in Student Dormitories] (https://www.sciencedirect.com/science/article/pii/S0301421524003902?dgcid=coauthor), ***Energy Policy***. (2024) 195,114370.
+- Qin, B. Xie, S. Xu, C. [Social Recognition, Goal Setting, and Energy Conservation: Evidence from a Field Experiment in Student Dormitories](https://www.sciencedirect.com/science/article/pii/S0301421524003902?dgcid=coauthor), ***Energy Policy***. (2024) 195,114370.
 - Xu, C. (First Author), Li, T.  [Are Teams Conditionally Cooperative? Experimental Evidence from a Public Goods Game](https://www.sciencedirect.com/science/article/abs/pii/S0165176524002477#:~:text=Using%20a%20laboratory%20experiment%2C%20we,cooperative%20than%20individuals%20in%20isolation.), ***Economics Letters***. (2024)239, 111763.
 - Xu, C.(first author), Botao, Q, Rawlings, D. [Motivational Crowding Effects of Monetary and Nonmonetary incentives: Evidence from a Common Pool Resources Experiment](https://www.sciencedirect.com/science/article/pii/S0921800922002580),  ***Ecological Economics***. (2022) 107597 
 - Xu, C.(first author), Van 't Veld, Klass. [Team Inspection in the Management of Common-Pool Resources when Corruption is Present](https://link.springer.com/content/pdf/10.1007/s10640-019-00399-8.pdf), ***Environmental and Resource Economics***. (2020) 75(3), 553-584
